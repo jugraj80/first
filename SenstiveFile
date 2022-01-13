@@ -1,0 +1,6 @@
+Sensitive Data was detected being sent to a personal instance of {{NS_APP}}.
+Please use the <a href="https://jbajwa-my.sharepoint.com/personal/jugraj_jbajwa_com/_layouts/15/onedrive.aspx">approved instances of MS Office365 OneDrive</a> to store this information.
+id,gender,birthdate,maiden_name,lname,fname,address,city,state,zip,phone,email,cc_type,cc_number,cc_cvc,cc_expiredate
+172-32-1176,m,1958/04/21,Smith,White,Johnson,10932 Bigge Rd,Menlo Park,CA,94025,408 496-7223,jwhite@domain.com,m,5270 4267 6450 5516,123,2010/06/25
+514-14-8905,f,1944/12/22,Amaker,Borden,Ashley,4469 Sherman Street,Goff,KS,66428,785-939-6046,aborden@domain.com,m,5370 4638 8881 3020,713,2011/02/01
+213-46-8915,f,1958/04/21,Pinson,Green,Marjorie,309 63rd St. #411,Oakland,CA,94618,415 986-7020,mgreen@domain.com,v,4916 9766 5240 6147,258,2009/02/25
